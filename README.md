@@ -2,7 +2,7 @@
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently learning: Python
 - 💞️ I’m looking to collaborate on: at the moment, no one
-- 📫 How to reach me ...
+- 📫 How to reach me: no way
 
 <!---
 VineEbs/VineEbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
